@@ -13,5 +13,5 @@ https://drive.google.com/open?id=1SBTR3SdiVMyoTIsL8PxVcVqvw2IGzQ_T
 put folder 'gg' under the 'database' directory
 
 ## Prepare the documents
-* selected_id.txt
-* parameter.txt
+* selected_id.txt - list of the selected samples
+* parameter.txt - settings for QIIME

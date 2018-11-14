@@ -1,0 +1,1 @@
+folder of fastq files

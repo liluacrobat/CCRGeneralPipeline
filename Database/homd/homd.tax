@@ -1,0 +1,831 @@
+0	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Bartonellaceae; g__Bartonella; s__schoenbuchensis
+1	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Caulobacterales; f__Caulobacteraceae; g__Caulobacter; s__sp. oral taxon 002
+2	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Sphingomonadales; f__Sphingomonadaceae; g__Sphingomonas; s__sp. oral taxon 003
+3	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Sphingomonadales; f__Sphingomonadaceae; g__Sphingomonas; s__sp. oral taxon 004
+4	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Sphingomonadales; f__Sphingomonadaceae; g__Sphingomonas; s__sp. oral taxon 006
+5	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Sphingomonadales; f__Sphingomonadaceae; g__Sphingomonas; s__sp. oral taxon 007
+6	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Peptostreptococcaceae[11]; g__Mogibacterium; s__vescum
+7	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Neisseriales; f__Neisseriaceae; g__Eikenella; s__sp. oral taxon 011
+8	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Neisseriales; f__Neisseriaceae; g__Kingella; s__sp. oral taxon 012
+9	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Neisseriales; f__Neisseriaceae; g__Neisseria; s__bacilliformis
+10	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Neisseriales; f__Neisseriaceae; g__Neisseria; s__oralis
+11	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Neisseriales; f__Neisseriaceae; g__Neisseria; s__oralis
+12	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Neisseriales; f__Neisseriaceae; g__Neisseria; s__sp. oral taxon 015
+13	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Neisseriales; f__Neisseriaceae; g__Neisseria; s__sp. oral taxon 016
+14	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Neisseriales; f__Neisseriaceae; g__Neisseria; s__sp. oral taxon 018
+15	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Neisseriales; f__Neisseriaceae; g__Neisseria; s__sp. oral taxon 020
+16	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__vestibularis
+17	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Burkholderiaceae; g__Lautropia; s__mirabilis
+18	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Burkholderiaceae; g__Lautropia; s__mirabilis
+19	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Comamonadaceae; g__Delftia; s__acidovorans
+20	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Comamonadaceae; g__Delftia; s__acidovorans
+21	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Comamonadaceae; g__Leptothrix; s__sp. oral taxon 024
+22	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Comamonadaceae; g__Leptothrix; s__sp. oral taxon 025
+23	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Comamonadaceae; g__Leptothrix; s__sp. oral taxon 026
+24	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Burkholderiaceae; g__Ralstonia; s__sp. oral taxon 027
+25	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Rhodocyclales; f__Rhodocyclaceae; g__Rhodocyclus; s__sp. oral taxon 028
+26	k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__Treponema; s__vincentii
+27	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Pseudomonadaceae; g__Pseudomonas; s__sp. oral taxon 032
+28	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pasteurellales; f__Pasteurellaceae; g__Haemophilus; s__sp. oral taxon 035
+29	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pasteurellales; f__Pasteurellaceae; g__Haemophilus; s__sp. oral taxon 036
+30	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Xanthomonadales; f__Xanthomonadaceae; g__Xanthomonas; s__sp. oral taxon 037
+31	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Coriobacteriales; f__Coriobacteriaceae; g__Olsenella; s__uli
+32	k__Bacteria; p__Proteobacteria; c__Deltaproteobacteria; o__Bdellovibrionales; f__Bdellovibrionacae; g__Bdellovibrio; s__sp. oral taxon 039
+33	k__Bacteria; p__Proteobacteria; c__Deltaproteobacteria; o__Desulfovibrionales; f__Desulfovibrionaceae; g__Desulfovibrio; s__sp. oral taxon 040
+34	k__Bacteria; p__Proteobacteria; c__Deltaproteobacteria; o__Desulfobacterales; f__Desulfobulbaceae; g__Desulfobulbus; s__sp. oral taxon 041
+35	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Peptostreptococcaceae[11]; g__Mogibacterium; s__timidum
+36	k__Bacteria; p__Proteobacteria; c__Epsilonproteobacteria; o__Campylobacterales; f__Campylobacteraceae; g__Campylobacter; s__sp. oral taxon 044
+37	k__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Bacillaceae; g__Bacillus; s__clausii
+38	k__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Bacillaceae; g__Bacillus; s__clausii
+39	k__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Staphylococcaceae; g__Gemella; s__morbillorum
+40	k__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Staphylococcaceae; g__Gemella; s__morbillorum
+41	k__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Paenibacillaceae; g__Paenibacillus; s__sp. oral taxon 048
+42	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Lactobacillus; s__vaginalis
+43	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Lactobacillus; s__vaginalis
+44	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Lactobacillus; s__sp. oral taxon 052
+45	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__sp. oral taxon 055
+46	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__sp. oral taxon 056
+47	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__sp. oral taxon 057
+48	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__sp. oral taxon 058
+49	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__sp. oral taxon 058
+50	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__sp. oral taxon 058
+51	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__sp. oral taxon 058
+52	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__sp. oral taxon 061
+53	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__sp. oral taxon 061
+54	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__sp. oral taxon 064
+55	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__sp. oral taxon 064
+56	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__sp. oral taxon 065
+57	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__sp. oral taxon 066
+58	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__sp. oral taxon 066
+59	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__sp. oral taxon 067
+60	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__sp. oral taxon 068
+61	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__sp. oral taxon 069
+62	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__sp. oral taxon 070
+63	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__sp. oral taxon 070
+64	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__sp. oral taxon 071
+65	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__sp. oral taxon 071
+66	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__sp. oral taxon 071
+67	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__sp. oral taxon 071
+68	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__australis
+69	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__australis
+70	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__sp. oral taxon 074
+71	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiales[F-2]; g__Clostridiales[F-2][G-1]; s__sp. oral taxon 075
+72	k__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Staphylococcaceae; g__Staphylococcus; s__warneri
+73	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae[14]; g__Oribacterium; s__sp. oral taxon 078
+74	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae[14]; g__Lachnospiraceae[G-5]; s__sp. oral taxon 080
+75	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Peptostreptococcaceae[11]; g__Peptostreptococcaceae[11][G-7]; s__sp. oral taxon 081
+76	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae[14]; g__Lachnoanaerobaculum; s__orale
+77	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae[14]; g__Lachnoanaerobaculum; s__sp. oral taxon 083
+78	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae[14]; g__Lachnoanaerobaculum; s__sp. oral taxon 083
+79	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiales[F-2]; g__Clostridiales[F-2][G-2]; s__sp. oral taxon 085
+80	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae[14]; g__Lachnospiraceae[G-7]; s__sp. oral taxon 086
+81	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae[14]; g__Lachnospiraceae[G-2]; s__sp. oral taxon 088
+82	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae[14]; g__Lachnoanaerobaculum; s__sp. oral taxon 089
+83	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae[14]; g__Lachnospiraceae[G-6]; s__sp. oral taxon 090
+84	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Peptostreptococcaceae[11]; g__Peptostreptococcaceae[11][G-2]; s__sp. oral taxon 091
+85	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Neisseriales; f__Neisseriaceae; g__Neisseria; s__weaveri
+86	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiales[F-1]; g__Clostridiales[F-1][G-1]; s__sp. oral taxon 093
+87	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiales[F-1]; g__Clostridiales[F-1][G-1]; s__sp. oral taxon 093
+88	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae[14]; g__Butyrivibrio; s__sp. oral taxon 094
+89	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae[14]; g__Shuttleworthia; s__satelles
+90	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae[14]; g__Shuttleworthia; s__satelles
+91	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae[14]; g__Shuttleworthia; s__satelles
+92	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae[14]; g__Lachnospiraceae[G-2]; s__sp. oral taxon 096
+93	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae[14]; g__Stomatobaculum; s__sp. oral taxon 097
+94	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae[14]; g__Lachnospiraceae[G-3]; s__sp. oral taxon 100
+95	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae[14]; g__Oribacterium; s__sp. oral taxon 102
+96	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae[14]; g__Oribacterium; s__sp. oral taxon 102
+97	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Peptostreptococcaceae[11]; g__Peptostreptococcaceae[11][G-4]; s__sp. oral taxon 103
+98	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Peptostreptococcaceae[11]; g__Eubacterium[11][G-1]; s__infirmum
+99	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Peptostreptococcaceae[11]; g__Eubacterium[11][G-1]; s__infirmum
+100	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Peptostreptococcaceae[11]; g__Peptostreptococcaceae[11][G-7]; s__sp. oral taxon 106
+101	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae[14]; g__Lachnoanaerobaculum; s__umeaense
+102	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae[14]; g__Oribacterium; s__sp. oral taxon 108
+103	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Peptostreptococcaceae[13]; g__Parvimonas; s__sp. oral taxon 110
+104	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Peptostreptococcaceae[13]; g__Parvimonas; s__sp. oral taxon 110
+105	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Peptostreptococcaceae[13]; g__Parvimonas; s__sp. oral taxon 110
+106	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Peptostreptococcaceae[13]; g__Parvimonas; s__micra
+107	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Peptostreptococcaceae[13]; g__Parvimonas; s__micra
+108	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Peptostreptococcaceae[13]; g__Parvimonas; s__micra
+109	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Peptostreptococcaceae[11]; g__Peptostreptococcus; s__stomatis
+110	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Peptostreptococcaceae[11]; g__Peptostreptococcus; s__stomatis
+111	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Peptostreptococcaceae[13]; g__Peptostreptococcaceae[13][G-1]; s__sp. oral taxon 113
+112	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Dialister; s__invisus
+113	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Dialister; s__invisus
+114	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Dialister; s__sp. oral taxon 119
+115	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Dialister; s__sp. oral taxon 119
+116	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Anaeroglobus; s__geminatus
+117	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Megasphaera; s__micronuciformis
+118	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Megasphaera; s__micronuciformis
+119	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Megasphaera; s__sp. oral taxon 123
+120	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Selenomonas; s__artemidis
+121	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Selenomonas; s__artemidis
+122	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Selenomonas; s__flueggei
+123	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Selenomonas; s__flueggei
+124	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Selenomonas; s__sp. oral taxon 126
+125	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Selenomonas; s__sp. oral taxon 126
+126	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Veillonellaceae[G-1]; s__sp. oral taxon 129
+127	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Veillonellaceae[G-1]; s__sp. oral taxon 129
+128	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Selenomonas; s__noxia
+129	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Selenomonas; s__noxia
+130	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Selenomonas; s__noxia
+131	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Mitsuokella; s__sp. oral taxon 131
+132	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Mitsuokella; s__sp. oral taxon 131
+133	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Veillonellaceae[G-1]; s__sp. oral taxon 132
+134	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Selenomonas; s__sp. oral taxon 133
+135	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Selenomonas; s__sp. oral taxon 134
+136	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Veillonellaceae[G-1]; s__sp. oral taxon 135
+137	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Selenomonas; s__sp. oral taxon 136
+138	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Selenomonas; s__sp. oral taxon 137
+139	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Selenomonas; s__sp. oral taxon 138
+140	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Selenomonas; s__dianae
+141	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Selenomonas; s__dianae
+142	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Selenomonas; s__dianae
+143	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Selenomonas; s__dianae
+144	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Selenomonas; s__sp. oral taxon 140
+145	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Selenomonas; s__sp. oral taxon 143
+146	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Veillonellaceae[G-1]; s__sp. oral taxon 145
+147	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Selenomonas; s__sp. oral taxon 146
+148	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Veillonellaceae[G-1]; s__sp. oral taxon 148
+149	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Selenomonas; s__sp. oral taxon 149
+150	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Veillonellaceae[G-1]; s__sp. oral taxon 150
+151	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Veillonellaceae[G-1]; s__sp. oral taxon 150
+152	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Selenomonas; s__sputigena
+153	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Selenomonas; s__sputigena
+154	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Selenomonas; s__sputigena
+155	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Veillonellaceae[G-1]; s__sp. oral taxon 155
+156	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Veillonellaceae[G-1]; s__sp. oral taxon 155
+157	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Veillonellaceae[G-1]; s__sp. oral taxon 155
+158	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Veillonella; s__rogosae
+159	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Veillonella; s__rogosae
+160	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Veillonella; s__dispar
+161	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Veillonella; s__dispar
+162	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Veillonella; s__parvula
+163	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Veillonella; s__parvula
+164	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Veillonella; s__parvula
+165	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Veillonella; s__parvula
+166	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Veillonella; s__parvula
+167	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae[14]; g__Lachnospiraceae[G-7]; s__sp. oral taxon 163
+168	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae[14]; g__Catonella; s__sp. oral taxon 164
+169	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae[14]; g__Catonella; s__morbi
+170	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae[14]; g__Catonella; s__morbi
+171	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae[14]; g__Catonella; s__morbi
+172	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae[14]; g__Johnsonella; s__sp. oral taxon 166
+173	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Peptococcaceae; g__Peptococcus; s__sp. oral taxon 167
+174	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Peptococcaceae; g__Peptococcus; s__sp. oral taxon 167
+175	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Peptococcaceae; g__Peptococcus; s__sp. oral taxon 168
+176	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces; s__sp. oral taxon 169
+177	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces; s__sp. oral taxon 170
+178	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces; s__sp. oral taxon 171
+179	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces; s__sp. oral taxon 171
+180	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces; s__sp. oral taxon 172
+181	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces; s__sp. oral taxon 172
+182	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces; s__sp. oral taxon 175
+183	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces; s__naeslundii
+184	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces; s__naeslundii
+185	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces; s__sp. oral taxon 177
+186	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces; s__sp. oral taxon 178
+187	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces; s__timonensis
+188	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces; s__sp. oral taxon 180
+189	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces; s__sp. oral taxon 180
+190	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces; s__sp. oral taxon 180
+191	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces; s__sp. oral taxon 181
+192	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Actinobaculum; s__sp. oral taxon 183
+193	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Actinobaculum; s__sp. oral taxon 183
+194	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Corynebacteriaceae; g__Corynebacterium; s__sp. oral taxon 184
+195	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Microbacteriaceae; g__Microbacterium; s__sp. oral taxon 185
+196	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Microbacteriaceae; g__Microbacterium; s__sp. oral taxon 186
+197	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Micrococcaceae; g__Rothia; s__aeria
+198	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Micrococcaceae; g__Kocuria; s__sp. oral taxon 189
+199	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Micrococcaceae; g__Arsenicicoccus; s__sp. oral taxon 190
+200	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Propionibacteriaceae; g__Propionibacterium; s__acidifaciens
+201	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Propionibacteriaceae; g__Propionibacterium; s__sp. oral taxon 192
+202	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Propionibacteriaceae; g__Propionibacterium; s__sp. oral taxon 193
+203	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Propionibacteriaceae; g__Propionibacterium; s__sp. oral taxon 194
+204	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Bifidobacteriales; f__Bifidobacteriaceae; g__Scardovia; s__wiggsiae
+205	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Bifidobacteriales; f__Bifidobacteriaceae; g__Scardovia; s__wiggsiae
+206	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Bifidobacteriales; f__Bifidobacteriaceae; g__Alloscardovia; s__omnicolens
+207	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Bifidobacteriales; f__Bifidobacteriaceae; g__Alloscardovia; s__omnicolens
+208	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Coriobacteriales; f__Coriobacteriaceae; g__Atopobium; s__sp. oral taxon 199
+209	k__Bacteria; p__Fusobacteria; c__Fusobacteria; o__Fusobacteriales; f__Fusobacteriaceae; g__Fusobacterium; s__nucleatum subsp. vincentii
+210	k__Bacteria; p__Fusobacteria; c__Fusobacteria; o__Fusobacteriales; f__Fusobacteriaceae; g__Fusobacterium; s__nucleatum subsp. vincentii
+211	k__Bacteria; p__Fusobacteria; c__Fusobacteria; o__Fusobacteriales; f__Fusobacteriaceae; g__Fusobacterium; s__nucleatum subsp. vincentii
+212	k__Bacteria; p__Fusobacteria; c__Fusobacteria; o__Fusobacteriales; f__Fusobacteriaceae; g__Fusobacterium; s__nucleatum subsp. vincentii
+213	k__Bacteria; p__Fusobacteria; c__Fusobacteria; o__Fusobacteriales; f__Fusobacteriaceae; g__Fusobacterium; s__periodonticum
+214	k__Bacteria; p__Fusobacteria; c__Fusobacteria; o__Fusobacteriales; f__Fusobacteriaceae; g__Fusobacterium; s__periodonticum
+215	k__Bacteria; p__Fusobacteria; c__Fusobacteria; o__Fusobacteriales; f__Fusobacteriaceae; g__Fusobacterium; s__nucleatum subsp. polymorphum
+216	k__Bacteria; p__Fusobacteria; c__Fusobacteria; o__Fusobacteriales; f__Fusobacteriaceae; g__Fusobacterium; s__nucleatum subsp. polymorphum
+217	k__Bacteria; p__Fusobacteria; c__Fusobacteria; o__Fusobacteriales; f__Fusobacteriaceae; g__Fusobacterium; s__sp. oral taxon 203
+218	k__Bacteria; p__Fusobacteria; c__Fusobacteria; o__Fusobacteriales; f__Fusobacteriaceae; g__Fusobacterium; s__sp. oral taxon 203
+219	k__Bacteria; p__Fusobacteria; c__Fusobacteria; o__Fusobacteriales; f__Fusobacteriaceae; g__Fusobacterium; s__sp. oral taxon 203
+220	k__Bacteria; p__Fusobacteria; c__Fusobacteria; o__Fusobacteriales; f__Fusobacteriaceae; g__Fusobacterium; s__sp. oral taxon 205
+221	k__Bacteria; p__Fusobacteria; c__Fusobacteria; o__Fusobacteriales; f__Leptotrichiaceae; g__Leptotrichiaceae[G-1]; s__sp. oral taxon 210
+222	k__Bacteria; p__Fusobacteria; c__Fusobacteria; o__Fusobacteriales; f__Leptotrichiaceae; g__Leptotrichia; s__sp. oral taxon 212
+223	k__Bacteria; p__Fusobacteria; c__Fusobacteria; o__Fusobacteriales; f__Leptotrichiaceae; g__Leptotrichia; s__hongkongensis
+224	k__Bacteria; p__Fusobacteria; c__Fusobacteria; o__Fusobacteriales; f__Leptotrichiaceae; g__Leptotrichia; s__shahii
+225	k__Bacteria; p__Fusobacteria; c__Fusobacteria; o__Fusobacteriales; f__Leptotrichiaceae; g__Leptotrichia; s__sp. oral taxon 215
+226	k__Bacteria; p__Fusobacteria; c__Fusobacteria; o__Fusobacteriales; f__Leptotrichiaceae; g__Leptotrichia; s__sp. oral taxon 217
+227	k__Bacteria; p__Fusobacteria; c__Fusobacteria; o__Fusobacteriales; f__Leptotrichiaceae; g__Leptotrichia; s__sp. oral taxon 218
+228	k__Bacteria; p__Fusobacteria; c__Fusobacteria; o__Fusobacteriales; f__Leptotrichiaceae; g__Leptotrichia; s__sp. oral taxon 219
+229	k__Bacteria; p__Fusobacteria; c__Fusobacteria; o__Fusobacteriales; f__Leptotrichiaceae; g__Leptotrichiaceae[G-1]; s__sp. oral taxon 220
+230	k__Bacteria; p__Fusobacteria; c__Fusobacteria; o__Fusobacteriales; f__Leptotrichiaceae; g__Leptotrichia; s__sp. oral taxon 221
+231	k__Bacteria; p__Fusobacteria; c__Fusobacteria; o__Fusobacteriales; f__Leptotrichiaceae; g__Leptotrichia; s__wadei
+232	k__Bacteria; p__Fusobacteria; c__Fusobacteria; o__Fusobacteriales; f__Leptotrichiaceae; g__Leptotrichia; s__sp. oral taxon 223
+233	k__Bacteria; p__Fusobacteria; c__Fusobacteria; o__Fusobacteriales; f__Leptotrichiaceae; g__Leptotrichia; s__hofstadii
+234	k__Bacteria; p__Fusobacteria; c__Fusobacteria; o__Fusobacteriales; f__Leptotrichiaceae; g__Leptotrichia; s__sp. oral taxon 225
+235	k__Bacteria; p__Fusobacteria; c__Fusobacteria; o__Fusobacteriales; f__Leptotrichiaceae; g__Leptotrichia; s__sp. oral taxon 225
+236	k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__Treponema; s__sp. oral taxon 226
+237	k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__Treponema; s__sp. oral taxon 227
+238	k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__Treponema; s__sp. oral taxon 228
+239	k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__Treponema; s__sp. oral taxon 230
+240	k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__Treponema; s__sp. oral taxon 230
+241	k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__Treponema; s__sp. oral taxon 231
+242	k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__Treponema; s__sp. oral taxon 232
+243	k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__Treponema; s__sp. oral taxon 234
+244	k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__Treponema; s__sp. oral taxon 235
+245	k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__Treponema; s__sp. oral taxon 236
+246	k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__Treponema; s__sp. oral taxon 237
+247	k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__Treponema; s__sp. oral taxon 237
+248	k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__Treponema; s__sp. oral taxon 237
+249	k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__Treponema; s__sp. oral taxon 237
+250	k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__Treponema; s__sp. oral taxon 238
+251	k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__Treponema; s__sp. oral taxon 239
+252	k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__Treponema; s__sp. oral taxon 239
+253	k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__Treponema; s__sp. oral taxon 242
+254	k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__Treponema; s__sp. oral taxon 246
+255	k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__Treponema; s__sp. oral taxon 247
+256	k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__Treponema; s__sp. oral taxon 249
+257	k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__Treponema; s__sp. oral taxon 250
+258	k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__Treponema; s__sp. oral taxon 251
+259	k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__Treponema; s__sp. oral taxon 252
+260	k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__Treponema; s__sp. oral taxon 253
+261	k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__Treponema; s__sp. oral taxon 254
+262	k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__Treponema; s__sp. oral taxon 255
+263	k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__Treponema; s__sp. oral taxon 256
+264	k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__Treponema; s__sp. oral taxon 257
+265	k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__Treponema; s__sp. oral taxon 258
+266	k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__Treponema; s__sp. oral taxon 260
+267	k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__Treponema; s__sp. oral taxon 262
+268	k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__Treponema; s__sp. oral taxon 263
+269	k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__Treponema; s__sp. oral taxon 264
+270	k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__Treponema; s__sp. oral taxon 265
+271	k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__Treponema; s__sp. oral taxon 268
+272	k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__Treponema; s__sp. oral taxon 268
+273	k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__Treponema; s__sp. oral taxon 269
+274	k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__Treponema; s__sp. oral taxon 270
+275	k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__Treponema; s__sp. oral taxon 271
+276	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroidaceae[G-1]; s__sp. oral taxon 272
+277	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Porphyromonadaceae; g__Porphyromonas; s__endodontalis
+278	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Porphyromonadaceae; g__Porphyromonas; s__endodontalis
+279	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Porphyromonadaceae; g__Porphyromonas; s__endodontalis
+280	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Porphyromonadaceae; g__Porphyromonas; s__endodontalis
+281	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Bacteroidales[F-2]; g__Bacteroidales[G-2]; s__sp. oral taxon 274
+282	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Porphyromonadaceae; g__Porphyromonas; s__sp. oral taxon 275
+283	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Porphyromonadaceae; g__Porphyromonas; s__sp. oral taxon 277
+284	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Porphyromonadaceae; g__Porphyromonas; s__sp. oral taxon 278
+285	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Porphyromonadaceae; g__Porphyromonas; s__sp. oral taxon 279
+286	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Porphyromonadaceae; g__Porphyromonas; s__sp. oral taxon 279
+287	k__Bacteria; p__Bacteroidetes; c__Bacteroidetes[C-1]; o__Bacteroidetes[O-1]; f__Bacteroidetes[F-1]; g__Bacteroidetes[G-3]; s__sp. oral taxon 280
+288	k__Bacteria; p__Bacteroidetes; c__Bacteroidetes[C-1]; o__Bacteroidetes[O-1]; f__Bacteroidetes[F-1]; g__Bacteroidetes[G-3]; s__sp. oral taxon 281
+289	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Porphyromonadaceae; g__Porphyromonas; s__catoniae
+290	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Porphyromonadaceae; g__Porphyromonas; s__catoniae
+291	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Porphyromonadaceae; g__Porphyromonas; s__sp. oral taxon 284
+292	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Porphyromonadaceae; g__Porphyromonas; s__sp. oral taxon 285
+293	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Porphyromonadaceae; g__Tannerella; s__sp. oral taxon 286
+294	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__oulorum
+295	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__oulorum
+296	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__maculosa
+297	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__maculosa
+298	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__maculosa
+299	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__denticola
+300	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__denticola
+301	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__denticola
+302	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__sp. oral taxon 292
+303	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__sp. oral taxon 292
+304	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__sp. oral taxon 293
+305	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__sp. oral taxon 296
+306	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__histicola
+307	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__sp. oral taxon 299
+308	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__sp. oral taxon 300
+309	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__sp. oral taxon 300
+310	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__sp. oral taxon 301
+311	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Alloprevotella; s__rava
+312	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Alloprevotella; s__rava
+313	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__pleuritidis [NV]
+314	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__pleuritidis [NV]
+315	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__sp. oral taxon 304
+316	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__sp. oral taxon 305
+317	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__sp. oral taxon 306
+318	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__salivae
+319	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__salivae
+320	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Alloprevotella; s__sp. oral taxon 308
+321	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__sp. oral taxon 309
+322	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__sp. oral taxon 310
+323	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__oris
+324	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__oris
+325	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__sp. oral taxon 313
+326	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__sp. oral taxon 313
+327	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__sp. oral taxon 314
+328	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__sp. oral taxon 315
+329	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__sp. oral taxon 317
+330	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__sp. oral taxon 317
+331	k__Bacteria; p__Bacteroidetes; c__Flavobacteria; o__Flavobacteriales; f__Flavobacteriales[F-1]; g__Flavobacteriales[G-1]; s__sp. oral taxon 318
+332	k__Bacteria; p__Bacteroidetes; c__Flavobacteria; o__Flavobacteriales; f__Flavobacteriaceae; g__Bergeyella; s__sp. oral taxon 319
+333	k__Bacteria; p__Bacteroidetes; c__Flavobacteria; o__Flavobacteriales; f__Flavobacteriales[F-2]; g__Flavobacteriales[G-2]; s__sp. oral taxon 320
+334	k__Bacteria; p__Bacteroidetes; c__Flavobacteria; o__Flavobacteriales; f__Flavobacteriales[F-1]; g__Flavobacteriales[G-1]; s__sp. oral taxon 321
+335	k__Bacteria; p__Bacteroidetes; c__Flavobacteria; o__Flavobacteriales; f__Flavobacteriaceae; g__Bergeyella; s__sp. oral taxon 322
+336	k__Bacteria; p__Bacteroidetes; c__Flavobacteria; o__Flavobacteriales; f__Flavobacteriaceae; g__Capnocytophaga; s__sp. oral taxon 323
+337	k__Bacteria; p__Bacteroidetes; c__Flavobacteria; o__Flavobacteriales; f__Flavobacteriaceae; g__Capnocytophaga; s__sp. oral taxon 324
+338	k__Bacteria; p__Bacteroidetes; c__Flavobacteria; o__Flavobacteriales; f__Flavobacteriaceae; g__Capnocytophaga; s__granulosa
+339	k__Bacteria; p__Bacteroidetes; c__Flavobacteria; o__Flavobacteriales; f__Flavobacteriaceae; g__Capnocytophaga; s__granulosa
+340	k__Bacteria; p__Bacteroidetes; c__Flavobacteria; o__Flavobacteriales; f__Flavobacteriaceae; g__Capnocytophaga; s__sp. oral taxon 326
+341	k__Bacteria; p__Bacteroidetes; c__Flavobacteria; o__Flavobacteriales; f__Flavobacteriaceae; g__Capnocytophaga; s__leadbetteri
+342	k__Bacteria; p__Bacteroidetes; c__Flavobacteria; o__Flavobacteriales; f__Flavobacteriaceae; g__Capnocytophaga; s__leadbetteri
+343	k__Bacteria; p__Bacteroidetes; c__Flavobacteria; o__Flavobacteriales; f__Flavobacteriaceae; g__Capnocytophaga; s__leadbetteri
+344	k__Bacteria; p__Bacteroidetes; c__Flavobacteria; o__Flavobacteriales; f__Flavobacteriaceae; g__Capnocytophaga; s__sp. oral taxon 332
+345	k__Bacteria; p__Bacteroidetes; c__Flavobacteria; o__Flavobacteriales; f__Flavobacteriaceae; g__Capnocytophaga; s__sp. oral taxon 334
+346	k__Bacteria; p__Bacteroidetes; c__Flavobacteria; o__Flavobacteriales; f__Flavobacteriaceae; g__Capnocytophaga; s__sp. oral taxon 335
+347	k__Bacteria; p__Bacteroidetes; c__Flavobacteria; o__Flavobacteriales; f__Flavobacteriaceae; g__Capnocytophaga; s__sp. oral taxon 336
+348	k__Bacteria; p__Bacteroidetes; c__Flavobacteria; o__Flavobacteriales; f__Flavobacteriaceae; g__Capnocytophaga; s__gingivalis
+349	k__Bacteria; p__Bacteroidetes; c__Flavobacteria; o__Flavobacteriales; f__Flavobacteriaceae; g__Capnocytophaga; s__gingivalis
+350	k__Bacteria; p__Bacteroidetes; c__Flavobacteria; o__Flavobacteriales; f__Flavobacteriaceae; g__Capnocytophaga; s__sp. oral taxon 338
+351	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Alcaligenaceae; g__Achromobacter; s__xylosoxidans
+352	k__Bacteria; p__SR1; c__SR1[C-1]; o__SR1[O-1]; f__SR1[F-1]; g__SR1[G-1]; s__sp. oral taxon 345
+353	k__Bacteria; p__Saccharibacteria (TM7); c__TM7[C-1]; o__TM7[O-1]; f__TM7[F-1]; g__TM7[G-1]; s__sp. oral taxon 346
+354	k__Bacteria; p__Saccharibacteria (TM7); c__TM7[C-1]; o__TM7[O-1]; f__TM7[F-1]; g__TM7[G-1]; s__sp. oral taxon 347
+355	k__Bacteria; p__Saccharibacteria (TM7); c__TM7[C-1]; o__TM7[O-1]; f__TM7[F-1]; g__TM7[G-1]; s__sp. oral taxon 348
+356	k__Bacteria; p__Saccharibacteria (TM7); c__TM7[C-1]; o__TM7[O-1]; f__TM7[F-1]; g__TM7[G-1]; s__sp. oral taxon 349
+357	k__Bacteria; p__Saccharibacteria (TM7); c__TM7[C-1]; o__TM7[O-1]; f__TM7[F-1]; g__TM7[G-2]; s__sp. oral taxon 350
+358	k__Bacteria; p__Saccharibacteria (TM7); c__TM7[C-1]; o__TM7[O-1]; f__TM7[F-1]; g__TM7[G-3]; s__sp. oral taxon 351
+359	k__Bacteria; p__Saccharibacteria (TM7); c__TM7[C-1]; o__TM7[O-1]; f__TM7[F-1]; g__TM7[G-1]; s__sp. oral taxon 352
+360	k__Bacteria; p__Saccharibacteria (TM7); c__TM7[C-1]; o__TM7[O-1]; f__TM7[F-1]; g__TM7[G-1]; s__sp. oral taxon 353
+361	k__Bacteria; p__Saccharibacteria (TM7); c__TM7[C-1]; o__TM7[O-1]; f__TM7[F-1]; g__TM7[G-4]; s__sp. oral taxon 355
+362	k__Bacteria; p__Saccharibacteria (TM7); c__TM7[C-1]; o__TM7[O-1]; f__TM7[F-2]; g__TM7[G-5]; s__sp. oral taxon 356
+363	k__Bacteria; p__Synergistetes; c__Synergistetes[C-1]; o__Synergistetes[O-1]; f__Synergistetes[F-1]; g__Pyramidobacter; s__piscolens
+364	k__Bacteria; p__Synergistetes; c__Synergistetes[C-1]; o__Synergistetes[O-1]; f__Synergistetes[F-1]; g__Pyramidobacter; s__piscolens
+365	k__Bacteria; p__Synergistetes; c__Synergistetes[C-1]; o__Synergistetes[O-1]; f__Synergistetes[F-1]; g__Pyramidobacter; s__piscolens
+366	k__Bacteria; p__Synergistetes; c__Synergistetes[C-1]; o__Synergistetes[O-1]; f__Synergistetes[F-2]; g__Fretibacterium; s__sp. oral taxon 358
+367	k__Bacteria; p__Synergistetes; c__Synergistetes[C-1]; o__Synergistetes[O-1]; f__Synergistetes[F-2]; g__Fretibacterium; s__sp. oral taxon 359
+368	k__Bacteria; p__Synergistetes; c__Synergistetes[C-1]; o__Synergistetes[O-1]; f__Synergistetes[F-2]; g__Fretibacterium; s__sp. oral taxon 360
+369	k__Bacteria; p__Synergistetes; c__Synergistetes[C-1]; o__Synergistetes[O-1]; f__Synergistetes[F-2]; g__Fretibacterium; s__sp. oral taxon 361
+370	k__Bacteria; p__Synergistetes; c__Synergistetes[C-1]; o__Synergistetes[O-1]; f__Synergistetes[F-2]; g__Fretibacterium; s__sp. oral taxon 361
+371	k__Bacteria; p__Synergistetes; c__Synergistetes[C-1]; o__Synergistetes[O-1]; f__Synergistetes[F-2]; g__Fretibacterium; s__sp. oral taxon 361
+372	k__Bacteria; p__Synergistetes; c__Synergistetes[C-1]; o__Synergistetes[O-1]; f__Synergistetes[F-2]; g__Fretibacterium; s__sp. oral taxon 362
+373	k__Bacteria; p__Synergistetes; c__Synergistetes[C-1]; o__Synergistetes[O-1]; f__Synergistetes[F-2]; g__Fretibacterium; s__fastidiosum
+374	k__Bacteria; p__Synergistetes; c__Synergistetes[C-1]; o__Synergistetes[O-1]; f__Synergistetes[F-2]; g__Fretibacterium; s__fastidiosum
+375	k__Bacteria; p__Synergistetes; c__Synergistetes[C-1]; o__Synergistetes[O-1]; f__Synergistetes[F-2]; g__Fretibacterium; s__fastidiosum
+376	k__Bacteria; p__Bacteroidetes; c__Bacteroidetes[C-1]; o__Bacteroidetes[O-1]; f__Bacteroidetes[F-1]; g__Bacteroidetes[G-3]; s__sp. oral taxon 365
+377	k__Bacteria; p__Bacteroidetes; c__Bacteroidetes[C-1]; o__Bacteroidetes[O-1]; f__Bacteroidetes[F-1]; g__Bacteroidetes[G-3]; s__sp. oral taxon 365
+378	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiales[F-2]; g__Clostridiales[F-2][G-3]; s__sp. oral taxon 366
+379	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Dietziaceae; g__Dietzia; s__sp. oral taxon 368
+380	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Peptostreptococcaceae[11]; g__Peptostreptococcaceae[11][G-4]; s__sp. oral taxon 369
+381	k__Bacteria; p__Fusobacteria; c__Fusobacteria; o__Fusobacteriales; f__Fusobacteriaceae; g__Fusobacterium; s__sp. oral taxon 370
+382	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae[14]; g__Oribacterium; s__sp. oral taxon 372
+383	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae[14]; g__Stomatobaculum; s__sp. oral taxon 373
+384	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Peptostreptococcaceae[13]; g__Peptoniphilus; s__sp. oral taxon 375
+385	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__sp. oral taxon 376
+386	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Peptostreptococcaceae[11]; g__Eubacterium[11][G-7]; s__yurii
+387	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__micans
+388	k__Bacteria; p__Bacteroidetes; c__Flavobacteria; o__Flavobacteriales; f__Flavobacteriaceae; g__Capnocytophaga; s__sp. oral taxon 380
+389	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiales[F-2]; g__Clostridiales[F-2][G-3]; s__sp. oral taxon 381
+390	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Peptostreptococcaceae[11]; g__Peptostreptococcaceae[11][G-3]; s__sp. oral taxon 382
+391	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Peptostreptococcaceae[11]; g__Peptostreptococcaceae[11][G-1]; s__sp. oral taxon 383
+392	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Peptostreptococcaceae[13]; g__Peptoniphilus; s__sp. oral taxon 386
+393	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Selenomonas; s__sp. oral taxon 388
+394	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Aerococcaceae; g__Abiotrophia; s__defectiva
+395	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Aerococcaceae; g__Abiotrophia; s__defectiva
+396	k__Bacteria; p__Fusobacteria; c__Fusobacteria; o__Fusobacteriales; f__Leptotrichiaceae; g__Leptotrichia; s__sp. oral taxon 392
+397	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Peptostreptococcaceae[13]; g__Parvimonas; s__sp. oral taxon 393
+398	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Porphyromonadaceae; g__Porphyromonas; s__sp. oral taxon 395
+399	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__sp. oral taxon 396
+400	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__mitis bv 2
+401	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__mitis bv 2
+402	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiales[F-1]; g__Clostridiales[F-1][G-2]; s__sp. oral taxon 402
+403	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Burkholderiaceae; g__Ralstonia; s__sp. oral taxon 406
+404	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Bifidobacteriales; f__Bifidobacteriaceae; g__Bifidobacteriaceae[G-2]; s__sp. oral taxon 407
+405	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Moraxellaceae; g__Acinetobacter; s__sp. oral taxon 408
+406	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__parasanguinis II
+407	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__parasanguinis II
+408	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__parasanguinis II
+409	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__parasanguinis II
+410	k__Bacteria; p__Bacteroidetes; c__Flavobacteria; o__Flavobacteriales; f__Flavobacteriaceae; g__Capnocytophaga; s__sp. oral taxon 412
+411	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces; s__sp. oral taxon 414
+412	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Coriobacteriales; f__Coriobacteriaceae; g__Atopobium; s__sp. oral taxon 416
+413	k__Bacteria; p__Fusobacteria; c__Fusobacteria; o__Fusobacteriales; f__Leptotrichiaceae; g__Leptotrichia; s__sp. oral taxon 417
+414	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Lactobacillus; s__parafarraginis
+415	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae[14]; g__Stomatobaculum; s__longum
+416	k__Bacteria; p__Fusobacteria; c__Fusobacteria; o__Fusobacteriales; f__Fusobacteriaceae; g__Fusobacterium; s__nucleatum subsp. animalis
+417	k__Bacteria; p__Fusobacteria; c__Fusobacteria; o__Fusobacteriales; f__Fusobacteriaceae; g__Fusobacterium; s__nucleatum subsp. animalis
+418	k__Bacteria; p__Fusobacteria; c__Fusobacteria; o__Fusobacteriales; f__Fusobacteriaceae; g__Fusobacterium; s__nucleatum subsp. animalis
+419	k__Bacteria; p__Bacteroidetes; c__Flavobacteria; o__Flavobacteriales; f__Flavobacteriaceae; g__Bergeyella; s__sp. oral taxon 422
+420	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__sp. oral taxon 423
+421	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Lactobacillus; s__kisonensis
+422	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__sp. oral taxon 431
+423	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Syntrophomonadaceae[8]; g__Syntrophomonadaceae[8][G-1]; s__sp. oral taxon 435
+424	k__Bacteria; p__Bacteroidetes; c__Bacteroidetes[C-1]; o__Bacteroidetes[O-1]; f__Bacteroidetes[F-1]; g__Bacteroidetes[G-3]; s__sp. oral taxon 436
+425	k__Bacteria; p__Saccharibacteria (TM7); c__TM7[C-1]; o__TM7[O-1]; f__TM7[F-2]; g__TM7[G-5]; s__sp. oral taxon 437
+426	k__Bacteria; p__Chloroflexi; c__Anaerolineae; o__Anaerolineae [O-1]; f__Anaerolineae [F-1]; g__Anaerolineae [G-1]; s__sp. oral taxon 439
+427	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Selenomonas; s__sp. oral taxon 442
+428	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__sp. oral taxon 443
+429	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces; s__sp. oral taxon 446
+430	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces; s__sp. oral taxon 448
+431	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces; s__sp. oral taxon 449
+432	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae[14]; g__Catonella; s__sp. oral taxon 451
+433	k__Bacteria; p__Synergistetes; c__Synergistetes[C-1]; o__Synergistetes[O-1]; f__Synergistetes[F-2]; g__Fretibacterium; s__sp. oral taxon 452
+434	k__Bacteria; p__Synergistetes; c__Synergistetes[C-1]; o__Synergistetes[O-1]; f__Synergistetes[F-2]; g__Fretibacterium; s__sp. oral taxon 453
+435	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae[14]; g__Lachnospiraceae[G-5]; s__sp. oral taxon 455
+436	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae[14]; g__Oribacterium; s__sinus
+437	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pasteurellales; f__Pasteurellaceae; g__Aggregatibacter; s__sp. oral taxon 458
+438	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Neisseriales; f__Neisseriaceae; g__Kingella; s__sp. oral taxon 459
+439	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Lactobacillus; s__sp. oral taxon 461
+440	k__Bacteria; p__Fusobacteria; c__Fusobacteria; o__Fusobacteriales; f__Leptotrichiaceae; g__Leptotrichia; s__sp. oral taxon 462
+441	k__Bacteria; p__Fusobacteria; c__Fusobacteria; o__Fusobacteriales; f__Leptotrichiaceae; g__Leptotrichia; s__sp. oral taxon 463
+442	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__zoogleoformans
+443	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Alloprevotella; s__tannerae
+444	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Peptostreptococcaceae[11]; g__Eubacterium[11][G-1]; s__sulci
+445	k__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Bacillaceae; g__Bacillus; s__subtilis
+446	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__melaninogenica
+447	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__melaninogenica
+448	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__sp. oral taxon 472
+449	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Alloprevotella; s__sp. oral taxon 473
+450	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Alloprevotella; s__sp. oral taxon 473
+451	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Alloprevotella; s__sp. oral taxon 474
+452	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__sp. oral taxon 475
+453	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Neisseriales; f__Neisseriaceae; g__Neisseria; s__subflava
+454	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Pseudomonadaceae; g__Pseudomonas; s__stutzeri
+455	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Selenomonas; s__sp. oral taxon 478
+456	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Selenomonas; s__sp. oral taxon 479
+457	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Selenomonas; s__sp. oral taxon 481
+458	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Veillonellaceae[G-1]; s__sp. oral taxon 483
+459	k__Bacteria; p__Firmicutes; c__Erysipelotrichi; o__Erysipelotrichales; f__Erysipelotrichaceae; g__Erysipelothrix; s__tonsillarum
+460	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Rhizobiaceae; g__Agrobacterium; s__tumefaciens
+461	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__sp. oral taxon 486
+462	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__sp. oral taxon 487
+463	k__Bacteria; p__Saccharibacteria (TM7); c__TM7[C-1]; o__TM7[O-1]; f__TM7[F-1]; g__TM7[G-1]; s__sp. oral taxon 488
+464	k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__Treponema; s__sp. oral taxon 490
+465	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Peptostreptococcaceae[11]; g__Peptostreptococcaceae[11][G-5]; s__sp. oral taxon 493
+466	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae[14]; g__Lachnoanaerobaculum; s__saburreum
+467	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae[14]; g__Lachnoanaerobaculum; s__saburreum
+468	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Peptostreptococcaceae[11]; g__Peptostreptococcaceae[11][G-3]; s__sp. oral taxon 495
+469	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae[14]; g__Lachnoanaerobaculum; s__sp. oral taxon 496
+470	k__Bacteria; p__Fusobacteria; c__Fusobacteria; o__Fusobacteriales; f__Leptotrichiaceae; g__Leptotrichia; s__sp. oral taxon 498
+471	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Neisseriales; f__Neisseriaceae; g__Neisseria; s__sp. oral taxon 499
+472	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae[14]; g__Lachnospiraceae[G-8]; s__sp. oral taxon 500
+473	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Selenomonas; s__sp. oral taxon 501
+474	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Dialister; s__sp. oral taxon 502
+475	k__Bacteria; p__Bacteroidetes; c__Bacteroidetes[C-1]; o__Bacteroidetes[O-1]; f__Bacteroidetes[F-1]; g__Bacteroidetes[G-3]; s__sp. oral taxon 503
+476	k__Bacteria; p__Tenericutes; c__Mollicutes; o__Mollicutes[O-1]; f__Mollicutes[F-1]; g__Mollicutes[G-1]; s__sp. oral taxon 504
+477	k__Bacteria; p__Bacteroidetes; c__Bacteroidetes[C-1]; o__Bacteroidetes[O-1]; f__Bacteroidetes[F-1]; g__Bacteroidetes[G-5]; s__sp. oral taxon 505
+478	k__Bacteria; p__Bacteroidetes; c__Bacteroidetes[C-1]; o__Bacteroidetes[O-1]; f__Bacteroidetes[F-1]; g__Bacteroidetes[G-5]; s__sp. oral taxon 507
+479	k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__Treponema; s__sp. oral taxon 508
+480	k__Bacteria; p__Bacteroidetes; c__Bacteroidetes[C-1]; o__Bacteroidetes[O-1]; f__Bacteroidetes[F-1]; g__Bacteroidetes[G-4]; s__sp. oral taxon 509
+481	k__Bacteria; p__Bacteroidetes; c__Bacteroidetes[C-1]; o__Bacteroidetes[O-1]; f__Bacteroidetes[F-1]; g__Bacteroidetes[G-5]; s__sp. oral taxon 511
+482	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pasteurellales; f__Pasteurellaceae; g__Aggregatibacter; s__sp. oral taxon 512
+483	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pasteurellales; f__Pasteurellaceae; g__Aggregatibacter; s__sp. oral taxon 513
+484	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__sp. oral taxon 515
+485	k__Bacteria; p__Bacteroidetes; c__Bacteroidetes[C-2]; o__Bacteroidetes[O-2]; f__Bacteroidetes[F-2]; g__Bacteroidetes[G-6]; s__sp. oral taxon 516
+486	k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__Treponema; s__sp. oral taxon 517
+487	k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__Treponema; s__sp. oral taxon 518
+488	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Mitsuokella; s__sp. oral taxon 521
+489	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Neisseriales; f__Neisseriaceae; g__Neisseria; s__sp. oral taxon 523
+490	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Veillonella; s__atypica
+491	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Veillonella; s__atypica
+492	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces; s__sp. oral taxon 525
+493	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__sp. oral taxon 526
+494	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__sp. oral taxon 526
+495	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Lactobacillus; s__acidophilus
+496	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Propionibacteriaceae; g__Propionibacterium; s__acnes
+497	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pasteurellales; f__Pasteurellaceae; g__Aggregatibacter; s__actinomycetemcomitans
+498	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pasteurellales; f__Pasteurellaceae; g__Aggregatibacter; s__actinomycetemcomitans
+499	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Carnobacteriaceae; g__Granulicatella; s__adiacens
+500	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Carnobacteriaceae; g__Granulicatella; s__adiacens
+501	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pasteurellales; f__Pasteurellaceae; g__Haemophilus; s__aegyptius
+502	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Pseudomonadaceae; g__Pseudomonas; s__aeruginosa
+503	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__agalactiae
+504	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Eubacteriaceae[15]; g__Pseudoramibacter; s__alactolyticus
+505	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Peptostreptococcaceae[11]; g__Filifactor; s__alocis
+506	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Cardiobacteriales; f__Cardiobacteriaceae; g__Cardiobacterium; s__valvarum
+507	k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__Treponema; s__amylovorum
+508	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Peptostreptococcaceae[11]; g__Peptostreptococcus; s__anaerobius
+509	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__anginosus
+510	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Brucellaceae; g__Ochrobactrum; s__anthropi
+511	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pasteurellales; f__Pasteurellaceae; g__Aggregatibacter; s__aphrophilus
+512	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Porphyromonadaceae; g__Porphyromonas; s__asaccharolytica
+513	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Peptostreptococcaceae[13]; g__Peptoniphilus; s__asaccharolyticus
+514	k__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Staphylococcaceae; g__Staphylococcus; s__aureus
+515	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Propionibacteriaceae; g__Propionibacterium; s__avidum
+516	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__baroniae
+517	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Moraxellaceae; g__Acinetobacter; s__baumannii
+518	k__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Staphylococcaceae; g__Gemella; s__bergeriae
+519	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__bivia
+520	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Peptostreptococcaceae[11]; g__Eubacterium[11][G-3]; s__brachy
+521	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Lactobacillus; s__brevis
+522	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Bradyrhizobiaceae; g__Afipia; s__broomeae
+523	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__buccae
+524	k__Bacteria; p__Tenericutes; c__Mollicutes; o__Mycoplasmatales; f__Mycoplasmataceae; g__Mycoplasma; s__buccale
+525	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__buccalis
+526	k__Bacteria; p__Fusobacteria; c__Fusobacteria; o__Fusobacteriales; f__Leptotrichiaceae; g__Leptotrichia; s__buccalis
+527	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacteriales; f__Enterobacteriaceae; g__Enterobacter; s__cancerogenus
+528	k__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Staphylococcaceae; g__Staphylococcus; s__caprae
+529	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Lactobacillus; s__casei
+530	k__Bacteria; p__Firmicutes; c__Erysipelotrichi; o__Erysipelotrichales; f__Erysipelotrichaceae; g__Eggerthia; s__catenaformis
+531	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Burkholderiaceae; g__Burkholderia; s__cepacia
+532	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__veroralis
+533	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacteriales; f__Enterobacteriaceae; g__Escherichia; s__coli
+534	k__Bacteria; p__Proteobacteria; c__Epsilonproteobacteria; o__Campylobacterales; f__Campylobacteraceae; g__Campylobacter; s__concisus
+535	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__constellatus
+536	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Neisseriales; f__Neisseriaceae; g__Eikenella; s__corrodens
+537	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Neisseriales; f__Neisseriaceae; g__Eikenella; s__corrodens
+538	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__cristatus
+539	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Coriobacteriales; f__Coriobacteriaceae; g__Cryptobacterium; s__curtum
+540	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Coriobacteriales; f__Coriobacteriaceae; g__Cryptobacterium; s__curtum
+541	k__Bacteria; p__Proteobacteria; c__Epsilonproteobacteria; o__Campylobacterales; f__Campylobacteraceae; g__Campylobacter; s__curvus
+542	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Neisseriales; f__Neisseriaceae; g__Kingella; s__denitrificans
+543	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__dentalis
+544	k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__Treponema; s__denticola
+545	k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__Treponema; s__denticola
+546	k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__Treponema; s__denticola
+547	k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__Treponema; s__denticola
+548	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Bifidobacteriales; f__Bifidobacteriaceae; g__Parascardovia; s__denticolens
+549	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Micrococcaceae; g__Rothia; s__dentocariosa
+550	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Bifidobacteriales; f__Bifidobacteriaceae; g__Bifidobacterium; s__dentium
+551	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Caulobacterales; f__Caulobacteraceae; g__Brevundimonas; s__diminuta
+552	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Corynebacteriaceae; g__Corynebacterium; s__diphtheriae
+553	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Peptostreptococcaceae[11]; g__Mogibacterium; s__diversum
+554	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__downei
+555	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Corynebacteriaceae; g__Corynebacterium; s__durum
+556	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Carnobacteriaceae; g__Granulicatella; s__elegans
+557	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Bradyrhizobiaceae; g__Bradyrhizobium; s__elkanii
+558	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Neisseriales; f__Neisseriaceae; g__Neisseria; s__elongata
+559	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__enoeca
+560	k__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Staphylococcaceae; g__Staphylococcus; s__epidermidis
+561	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Coriobacteriales; f__Coriobacteriaceae; g__Slackia; s__exigua
+562	k__Bacteria; p__Firmicutes; c__Erysipelotrichi; o__Erysipelotrichales; f__Erysipelotrichaceae; g__Bulleidia; s__extructa
+563	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Enterococcaceae; g__Enterococcus; s__faecalis
+564	k__Bacteria; p__Proteobacteria; c__Deltaproteobacteria; o__Desulfovibrionales; f__Desulfovibrionaceae; g__Desulfovibrio; s__fairfieldensis
+565	k__Bacteria; p__Tenericutes; c__Mollicutes; o__Mycoplasmatales; f__Mycoplasmataceae; g__Mycoplasma; s__faucium
+566	k__Bacteria; p__Tenericutes; c__Mollicutes; o__Mycoplasmatales; f__Mycoplasmataceae; g__Mycoplasma; s__fermentans
+567	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Lactobacillus; s__fermentum
+568	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Neisseriales; f__Neisseriaceae; g__Neisseria; s__flava
+569	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Neisseriales; f__Neisseriaceae; g__Neisseria; s__flavescens
+570	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Pseudomonadaceae; g__Pseudomonas; s__fluorescens
+571	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Porphyromonadaceae; g__Tannerella; s__forsythia
+572	k__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Bacillaceae; g__Lysinibacillus; s__fusiformis
+573	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Lactobacillus; s__gasseri
+574	k__Bacteria; p__Tenericutes; c__Mollicutes; o__Mycoplasmatales; f__Mycoplasmataceae; g__Mycoplasma; s__genitalium
+575	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces; s__georgiae
+576	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces; s__gerencseriae
+577	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Porphyromonadaceae; g__Porphyromonas; s__gingivalis
+578	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Neisseriales; f__Neisseriaceae; g__Neisseria; s__gonorrhoeae
+579	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__gordonii
+580	k__Bacteria; p__Proteobacteria; c__Epsilonproteobacteria; o__Campylobacterales; f__Campylobacteraceae; g__Campylobacter; s__gracilis
+581	k__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Staphylococcaceae; g__Gemella; s__haemolysans
+582	k__Bacteria; p__Bacteroidetes; c__Flavobacteria; o__Flavobacteriales; f__Flavobacteriaceae; g__Capnocytophaga; s__haemolytica
+583	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__heparinolyticus
+584	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__heparinolyticus
+585	k__Bacteria; p__Tenericutes; c__Mollicutes; o__Mycoplasmatales; f__Mycoplasmataceae; g__Mycoplasma; s__hominis
+586	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Cardiobacteriales; f__Cardiobacteriaceae; g__Cardiobacterium; s__hominis
+587	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Cardiobacteriales; f__Cardiobacteriaceae; g__Cardiobacterium; s__hominis
+588	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacteriales; f__Enterobacteriaceae; g__Enterobacter; s__hormaechei
+589	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae[14]; g__Johnsonella; s__ignava
+590	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Bradyrhizobiaceae; g__Afipia; s__sp.  genomospecies 8
+591	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__infantis
+592	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Selenomonas; s__infelix
+593	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pasteurellales; f__Pasteurellaceae; g__Haemophilus; s__influenzae
+594	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Bifidobacteriales; f__Bifidobacteriaceae; g__Scardovia; s__inopinata
+595	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__intermedia
+596	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__intermedius
+597	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces; s__israelii
+598	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Neisseriales; f__Neisseriaceae; g__Kingella; s__kingae
+599	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Peptostreptococcaceae[13]; g__Peptoniphilus; s__lacrimalis
+600	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Neisseriales; f__Neisseriaceae; g__Neisseria; s__lactamica
+601	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Bradyrhizobiaceae; g__Afipia; s__sp.  genomospecies 4
+602	k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__Treponema; s__lecithinolyticum
+603	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Coriobacteriales; f__Coriobacteriaceae; g__Eggerthella; s__lenta
+604	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Eubacteriaceae[15]; g__Eubacterium; s__limosum
+605	k__Bacteria; p__Tenericutes; c__Mollicutes; o__Mycoplasmatales; f__Mycoplasmataceae; g__Mycoplasma; s__lipophilum
+606	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__loescheii
+607	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Rhizobiaceae; g__Rhizobium; s__loti
+608	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhizobiales; f__Phyllobacteriaceae; g__Defluvibacter; s__lusatiensis
+609	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Peptostreptococcaceae[13]; g__Finegoldia; s__magna
+610	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Xanthomonadales; f__Xanthomonadaceae; g__Stenotrophomonas; s__maltophilia
+611	k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__Treponema; s__maltophilum
+612	k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__Treponema; s__maltophilum
+613	k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__Treponema; s__maltophilum
+614	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__marshii
+615	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Corynebacteriaceae; g__Corynebacterium; s__matruchotii
+616	k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__Treponema; s__medium
+617	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Neisseriales; f__Neisseriaceae; g__Neisseria; s__meningitidis
+618	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces; s__meyeri
+619	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Peptostreptococcaceae[11]; g__Eubacterium[11][G-6]; s__minutum
+620	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Coriobacteriales; f__Coriobacteriaceae; g__Atopobium; s__minutum
+621	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacteriales; f__Enterobacteriaceae; g__Proteus; s__mirabilis
+622	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__mitis
+623	k__Bacteria; p__Firmicutes; c__Erysipelotrichi; o__Erysipelotrichales; f__Erysipelotrichaceae; g__Solobacterium; s__moorei
+624	k__Bacteria; p__Firmicutes; c__Erysipelotrichi; o__Erysipelotrichales; f__Erysipelotrichaceae; g__Solobacterium; s__moorei
+625	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Micrococcaceae; g__Rothia; s__mucilaginosa
+626	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Neisseriales; f__Neisseriaceae; g__Neisseria; s__mucosa
+627	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Neisseriales; f__Neisseriaceae; g__Simonsiella; s__muelleri
+628	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Mitsuokella; s__multacida
+629	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__multiformis
+630	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__mutans
+631	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces; s__viscosus
+632	k__Bacteria; p__Fusobacteria; c__Fusobacteria; o__Fusobacteriales; f__Fusobacteriaceae; g__Fusobacterium; s__naviforme
+633	k__Bacteria; p__Fusobacteria; c__Fusobacteria; o__Fusobacteriales; f__Fusobacteriaceae; g__Fusobacterium; s__necrophorum
+634	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Peptostreptococcaceae[11]; g__Mogibacterium; s__neglectum
+635	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Mycobacteriaceae; g__Mycobacterium; s__neoaurum
+636	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__nigrescens
+637	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Peptostreptococcaceae[11]; g__Eubacterium[11][G-6]; s__nodatum
+638	k__Bacteria; p__Fusobacteria; c__Fusobacteria; o__Fusobacteriales; f__Fusobacteriaceae; g__Fusobacterium; s__nucleatum subsp. nucleatum
+639	k__Bacteria; p__Bacteroidetes; c__Flavobacteria; o__Flavobacteriales; f__Flavobacteriaceae; g__Capnocytophaga; s__ochracea
+640	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces; s__odontolyticus
+641	k__Bacteria; p__Proteobacteria; c__Deltaproteobacteria; o__Desulfovibrionales; f__Desulfomicrobiaceae; g__Desulfomicrobium; s__orale
+642	k__Bacteria; p__Tenericutes; c__Mollicutes; o__Mycoplasmatales; f__Mycoplasmataceae; g__Mycoplasma; s__orale
+643	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__oralis
+644	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Neisseriales; f__Neisseriaceae; g__Kingella; s__oralis
+645	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__oralis
+646	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces; s__oricola
+647	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Lactobacillus; s__oris
+648	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Moraxellaceae; g__Moraxella; s__osloensis
+649	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__pallens
+650	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Lactobacillus; s__paracasei
+651	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Comamonadaceae; g__Variovorax; s__paradoxus
+652	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pasteurellales; f__Pasteurellaceae; g__Haemophilus; s__parainfluenzae
+653	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pasteurellales; f__Pasteurellaceae; g__Aggregatibacter; s__paraphrophilus
+654	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__parasanguinis
+655	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Coriobacteriales; f__Coriobacteriaceae; g__Atopobium; s__parvulum
+656	k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__Treponema; s__parvum
+657	k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__Treponema; s__pectinovorum
+658	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Centipeda; s__periodontii
+659	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__peroris
+660	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Neisseriales; f__Neisseriaceae; g__Neisseria; s__pharyngis
+661	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacteriales; f__Enterobacteriaceae; g__Klebsiella; s__pneumoniae
+662	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacteriales; f__Enterobacteriaceae; g__Klebsiella; s__pneumoniae
+663	k__Bacteria; p__Tenericutes; c__Mollicutes; o__Mycoplasmatales; f__Mycoplasmataceae; g__Mycoplasma; s__pneumoniae
+664	k__Bacteria; p__Chlamydiae; c__Chlamydiae; o__Chlamydiales; f__Chlamydiaceae; g__Chlamydophila; s__pneumoniae
+665	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__pneumoniae
+666	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Dialister; s__pneumosintes
+667	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Neisseriales; f__Neisseriaceae; g__Neisseria; s__polysaccharea
+668	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Peptostreptococcaceae[13]; g__Anaerococcus; s__prevotii
+669	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Propionibacteriaceae; g__Propionibacterium; s__propionicum
+670	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Pseudomonadaceae; g__Pseudomonas; s__pseudoalcaligenes
+671	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Peptostreptococcaceae[11]; g__Mogibacterium; s__pumilum
+672	k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__Treponema; s__putidum
+673	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__pyogenes
+674	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces; s__radicidentis
+675	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Sphingomonadales; f__Sphingomonadaceae; g__Erythromicrobium; s__ramosum
+676	k__Bacteria; p__Proteobacteria; c__Epsilonproteobacteria; o__Campylobacterales; f__Campylobacteraceae; g__Campylobacter; s__rectus
+677	k__Bacteria; p__Proteobacteria; c__Epsilonproteobacteria; o__Campylobacterales; f__Campylobacteraceae; g__Campylobacter; s__rectus
+678	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Lactobacillus; s__rhamnosus
+679	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Coriobacteriales; f__Coriobacteriaceae; g__Atopobium; s__rimae
+680	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacteriales; f__Enterobacteriaceae; g__Cronobacter; s__sakazakii
+681	k__Bacteria; p__Tenericutes; c__Mollicutes; o__Mycoplasmatales; f__Mycoplasmataceae; g__Mycoplasma; s__salivarium
+682	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__salivarius
+683	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Lactobacillus; s__salivarius
+684	k__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Staphylococcaceae; g__Gemella; s__sanguinis
+685	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__sanguinis
+686	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Peptostreptococcaceae[11]; g__Eubacterium[11][G-5]; s__saphenum
+687	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pasteurellales; f__Pasteurellaceae; g__Aggregatibacter; s__segnis
+688	k__Bacteria; p__Proteobacteria; c__Epsilonproteobacteria; o__Campylobacterales; f__Campylobacteraceae; g__Campylobacter; s__showae
+689	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Neisseriales; f__Neisseriaceae; g__Neisseria; s__sicca
+690	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__sinensis
+691	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__sobrinus
+692	k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__Treponema; s__socranskii
+693	k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__Treponema; s__socranskii
+694	k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__Treponema; s__socranskii
+695	k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__Treponema; s__socranskii
+696	k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__Treponema; s__socranskii
+697	k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__Treponema; s__socranskii
+698	k__Bacteria; p__Bacteroidetes; c__Flavobacteria; o__Flavobacteriales; f__Flavobacteriaceae; g__Capnocytophaga; s__sputigena
+699	k__Bacteria; p__Proteobacteria; c__Epsilonproteobacteria; o__Campylobacterales; f__Campylobacteraceae; g__Campylobacter; s__sputorum
+700	k__Bacteria; p__Synergistetes; c__Synergistetes[C-1]; o__Synergistetes[O-1]; f__Synergistetes[F-1]; g__Jonquetella; s__anthropi
+701	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Veillonella; s__sp. oral taxon 780
+702	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Veillonella; s__sp. oral taxon 780
+703	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__saccharolytica
+704	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__fusca
+705	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Porphyromonadaceae; g__Porphyromonas; s__uenonis
+706	k__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Paenibacillaceae; g__Paenibacillus; s__sp. oral taxon 786
+707	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Bacteroidaceae; g__Bacteroides; s__pyogenes
+708	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Peptostreptococcaceae[13]; g__Anaerococcus; s__tetradius
+709	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Peptostreptococcaceae[13]; g__Peptostreptococcaceae[13][G-2]; s__sp. oral taxon 790
+710	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__multisaccharivorax
+711	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__shahii
+712	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Enterococcaceae; g__Enterococcus; s__casseliflavus
+713	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Enterococcaceae; g__Enterococcus; s__saccharolyticus
+714	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Enterococcaceae; g__Enterococcus; s__italicus
+715	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Lactococcus; s__lactis
+716	k__Bacteria; p__Spirochaetes; c__Spirochaetes; o__Spirochaetales; f__Spirochaetaceae; g__Treponema; s__pallidum
+717	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Coriobacteriales; f__Coriobacteriaceae; g__Olsenella; s__profusa
+718	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Coriobacteriales; f__Coriobacteriaceae; g__Olsenella; s__sp. oral taxon 807
+719	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Porphyromonadaceae; g__Tannerella; s__sp. Oral Taxon 808
+720	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Coriobacteriales; f__Coriobacteriaceae; g__Olsenella; s__sp. oral taxon 809
+721	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Coriobacteriales; f__Coriobacteriaceae; g__Atopobium; s__sp. Oral Taxon 810
+722	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Arcanobacterium; s__haemolyticum
+723	k__Bacteria; p__Proteobacteria; c__Epsilonproteobacteria; o__Campylobacterales; f__Helicobacteraceae; g__Helicobacter; s__pylori
+724	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Carnobacteriaceae; g__Dolosigranulum; s__pigrum
+725	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Coriobacteriales; f__Coriobacteriaceae; g__Atopobium; s__vaginae
+726	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Lactobacillus; s__colehominis
+727	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Lactobacillus; s__crispatus
+728	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Lactobacillus; s__reuteri
+729	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Lactobacillus; s__johnsonii
+730	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__sp. Oral Taxon 820
+731	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pasteurellales; f__Pasteurellaceae; g__Haemophilus; s__ducreyi
+732	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Mycobacteriaceae; g__Mycobacterium; s__tuberculosis
+733	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Mycobacteriaceae; g__Mycobacterium; s__leprae
+734	k__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Bacillaceae; g__Bacillus; s__anthracis
+735	k__Bacteria; p__Firmicutes; c__Bacilli; o__Bacillales; f__Listeriaceae; g__Listeria; s__monocytogenes
+736	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pasteurellales; f__Pasteurellaceae; g__Terrahaemophilus; s__aromaticivorans
+737	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacteriales; f__Enterobacteriaceae; g__Yersinia; s__pestis
+738	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Alcaligenaceae; g__Bordetella; s__pertussis
+739	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Bifidobacteriales; f__Bifidobacteriaceae; g__Gardnerella; s__vaginalis
+740	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Mobiluncus; s__mulieris
+741	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Carnobacteriaceae; g__Alloiococcus; s__otitis
+742	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Bifidobacteriales; f__Bifidobacteriaceae; g__Turicella; s__otitidis
+743	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Moraxellaceae; g__Moraxella; s__catarrhalis
+744	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pseudomonadales; f__Pseudomonadaceae; g__Pseudomonas; s__otitidis
+745	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Corynebacteriaceae; g__Corynebacterium; s__mucifaciens
+746	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Peptostreptococcaceae[13]; g__Peptoniphilus; s__sp. oral taxon 836
+747	k__Bacteria; p__Fusobacteria; c__Fusobacteria; o__Fusobacteriales; f__Leptotrichiaceae; g__Sneathia; s__sanguinegens
+748	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Lactobacillus; s__iners
+749	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Lactobacillus; s__jensenii
+750	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Peptostreptococcaceae[13]; g__Peptoniphilus; s__indolicus
+751	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Megasphaera; s__sp. oral taxon 841
+752	k__Bacteria; p__Proteobacteria; c__Epsilonproteobacteria; o__Campylobacterales; f__Campylobacteraceae; g__Campylobacter; s__ureolyticus
+753	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Dialister; s__micraerophilus
+754	k__Bacteria; p__Fusobacteria; c__Fusobacteria; o__Fusobacteriales; f__Leptotrichiaceae; g__Sneathia; s__amnionii [NV]
+755	k__Bacteria; p__Fusobacteria; c__Fusobacteria; o__Fusobacteriales; f__Leptotrichiaceae; g__Leptotrichia; s__goodfellowii
+756	k__Bacteria; p__Fusobacteria; c__Fusobacteria; o__Fusobacteriales; f__Leptotrichiaceae; g__Leptotrichia; s__sp. oral taxon 847
+757	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces; s__sp. oral taxon 848
+758	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces; s__johnsonii
+759	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces; s__cardiffensis
+760	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pasteurellales; f__Pasteurellaceae; g__Haemophilus; s__haemolyticus
+761	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces; s__massiliensis
+762	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Corynebacteriaceae; g__Corynebacterium; s__urealyticum
+763	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Burkholderiaceae; g__Ralstonia; s__pickettii
+764	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Dermacoccaceae; g__Kytococcus; s__sedentarius
+765	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Sanguibacteraceae; g__Sanguibacter; s__keddieii
+766	k__Bacteria; p__Proteobacteria; c__Alphaproteobacteria; o__Rhodobacterales; f__Rhodobacteraceae; g__Rhodobacter; s__capsulatus
+767	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Comamonadaceae; g__Comamonas; s__testosteroni
+768	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Peptostreptococcaceae[13]; g__Anaerococcus; s__Lactolyticus
+769	k__Bacteria; p__Fusobacteria; c__Fusobacteria; o__Fusobacteriales; f__Fusobacteriaceae; g__Fusobacterium; s__gonidiaformans
+770	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Lactobacillus; s__plantarum
+771	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Bifidobacteriales; f__Bifidobacteriaceae; g__Bifidobacterium; s__longum
+772	k__Bacteria; p__Bacteroidetes; c__Flavobacteria; o__Flavobacteriales; f__Flavobacteriaceae; g__Capnocytophaga; s__sp. oral taxon 863
+773	k__Bacteria; p__Bacteroidetes; c__Flavobacteria; o__Flavobacteriales; f__Flavobacteriaceae; g__Capnocytophaga; s__sp. oral taxon 863
+774	k__Bacteria; p__Bacteroidetes; c__Flavobacteria; o__Flavobacteriales; f__Flavobacteriaceae; g__Capnocytophaga; s__sp. oral taxon 864
+775	k__Bacteria; p__Bacteroidetes; c__Flavobacteria; o__Flavobacteriales; f__Flavobacteriaceae; g__Capnocytophaga; s__sp. oral taxon 864
+776	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacteriales; f__Enterobacteriaceae; g__Kluyvera; s__ascorbata
+777	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Enterobacteriales; f__Enterobacteriaceae; g__Kluyvera; s__ascorbata
+778	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces; s__graevenitzii
+779	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces; s__graevenitzii
+780	k__Bacteria; p__Gracilibacteria (GN02); c__GN02[C-1]; o__GN02[O-1]; f__GN02[F-1]; g__GN02[G-1]; s__sp. oral taxon 871
+781	k__Bacteria; p__Gracilibacteria (GN02); c__GN02[C-1]; o__GN02[O-1]; f__GN02[F-1]; g__GN02[G-1]; s__sp. oral taxon 872
+782	k__Bacteria; p__Gracilibacteria (GN02); c__GN02[C-2]; o__GN02[O-2]; f__GN02[F-2]; g__GN02[G-2]; s__sp. oral taxon 873
+783	k__Bacteria; p__SR1; c__SR1[C-1]; o__SR1[O-1]; f__SR1[F-1]; g__SR1[G-1]; s__sp. oral taxon 874
+784	k__Bacteria; p__SR1; c__SR1[C-1]; o__SR1[O-1]; f__SR1[F-1]; g__SR1[G-1]; s__sp. oral taxon 875
+785	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Clostridiales[F-3]; g__Clostridiales[F-3][G-1]; s__sp. oral taxon 876
+786	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces; s__sp. oral taxon 877
+787	k__Bacteria; p__Bacteroidetes; c__Flavobacteria; o__Flavobacteriales; f__Flavobacteriaceae; g__Capnocytophaga; s__sp. oral taxon 878
+788	k__Bacteria; p__Fusobacteria; c__Fusobacteria; o__Fusobacteriales; f__Leptotrichiaceae; g__Leptotrichia; s__sp. oral taxon 879
+789	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Enterococcaceae; g__Enterococcus; s__durans
+790	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Lactobacillus; s__buchneri
+791	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Lactobacillus; s__panis
+792	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Lactobacillus; s__pentosus
+793	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Lactobacillaceae; g__Lactobacillus; s__rapi
+794	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Prevotella; s__scopos
+795	k__Bacteria; p__Firmicutes; c__Bacilli; o__Lactobacillales; f__Streptococcaceae; g__Streptococcus; s__oligofermentans
+796	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Veillonella; s__denticariosi
+797	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces; s__dentalis
+798	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Bifidobacteriales; f__Bifidobacteriaceae; g__Bifidobacterium; s__breve
+799	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Bifidobacteriales; f__Bifidobacteriaceae; g__Bifidobacterium; s__subtile
+800	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Bifidobacteriales; f__Bifidobacteriaceae; g__Bifidobacterium; s__scardovii
+801	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Selenomonas; s__sp. oral taxon 892
+802	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces; s__oris
+803	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Comamonadaceae; g__Ottowia; s__sp. oral taxon 894
+804	k__Bacteria; p__Proteobacteria; c__Betaproteobacteria; o__Burkholderiales; f__Comamonadaceae; g__Ottowia; s__sp. oral taxon 894
+805	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Bifidobacteriales; f__Bifidobacteriaceae; g__Bifidobacterium; s__animalis
+806	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Bifidobacteriales; f__Bifidobacteriaceae; g__Bifidobacterium; s__animalis
+807	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces; s__sp. oral taxon 896
+808	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Actinomycetaceae; g__Actinomyces; s__sp. oral taxon 897
+809	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pasteurellales; f__Pasteurellaceae; g__Aggregatibacter; s__sp. oral taxon 898
+810	k__Bacteria; p__Bacteroidetes; c__Bacteroidetes[C-1]; o__Bacteroidetes[O-1]; f__Bacteroidetes[F-1]; g__Bacteroidetes[G-3]; s__sp. oral taxon 899
+811	k__Bacteria; p__Bacteroidetes; c__Flavobacteria; o__Flavobacteriales; f__Flavobacteriaceae; g__Bergeyella; s__sp. oral taxon 900
+812	k__Bacteria; p__Bacteroidetes; c__Flavobacteria; o__Flavobacteriales; f__Flavobacteriaceae; g__Capnocytophaga; s__sp. oral taxon 901
+813	k__Bacteria; p__Bacteroidetes; c__Flavobacteria; o__Flavobacteriales; f__Flavobacteriaceae; g__Capnocytophaga; s__sp. oral taxon 902
+814	k__Bacteria; p__Bacteroidetes; c__Flavobacteria; o__Flavobacteriales; f__Flavobacteriaceae; g__Capnocytophaga; s__sp. oral taxon 903
+815	k__Bacteria; p__Firmicutes; c__Erysipelotrichi; o__Erysipelotrichales; f__Erysipelotrichaceae; g__Erysipelothrichaceae[G-1]; s__sp. oral taxon 904
+816	k__Bacteria; p__Firmicutes; c__Erysipelotrichi; o__Erysipelotrichales; f__Erysipelotrichaceae; g__Erysipelothrichaceae[G-1]; s__sp. oral taxon 905
+817	k__Bacteria; p__Tenericutes; c__Mollicutes; o__Mollicutes[O-2]; f__Mollicutes[F-2]; g__Mollicutes[G-2]; s__sp. oral taxon 906
+818	k__Bacteria; p__Bacteroidetes; c__Flavobacteria; o__Flavobacteriales; f__Flavobacteriaceae; g__Bergeyella; s__sp. oral taxon 907
+819	k__Bacteria; p__Proteobacteria; c__Gammaproteobacteria; o__Pasteurellales; f__Pasteurellaceae; g__Haemophilus; s__sp. oral taxon 908
+820	k__Bacteria; p__Fusobacteria; c__Fusobacteria; o__Fusobacteriales; f__Leptotrichiaceae; g__Leptotrichia; s__sp. oral taxon 909
+821	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Lachnospiraceae[14]; g__Stomatobaculum; s__sp. oral taxon 910
+822	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Bacteroidales[F-3]; g__Bacteroidales[G-3]; s__sp. oral taxon 911
+823	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Alloprevotella; s__sp. oral taxon 912
+824	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Alloprevotella; s__sp. oral taxon 912
+825	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Alloprevotella; s__sp. oral taxon 913
+826	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Prevotellaceae; g__Alloprevotella; s__sp. oral taxon 914
+827	k__Bacteria; p__Actinobacteria; c__Actinobacteria; o__Actinomycetales; f__Propionibacteriaceae; g__Propionibacterium; s__sp. oral taxon 915
+828	k__Bacteria; p__Bacteroidetes; c__Bacteroides; o__Bacteroidales; f__Porphyromonadaceae; g__Tannerella; s__sp. oral taxon 916
+829	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Veillonella; s__sp. oral taxon 917
+830	k__Bacteria; p__Firmicutes; c__Clostridia; o__Clostridiales; f__Veillonellaceae; g__Veillonellaceae[G-1]; s__sp. oral taxon 918

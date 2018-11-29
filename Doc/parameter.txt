@@ -1,7 +1,5 @@
-join_paired_ends:min_overlap 6
-join_paired_ends:perc_max_diff 30
+pick_open_reference_otus:reference_fp $PWD/Database/gg/97_otus.fasta
+pick_open_reference_otus:taxonomy_fp $PWD/Database/gg/97_otu_taxonomy.txt
 
-split_libraries_fastq:max_bad_run_length 3
-split_libraries_fastq:min_per_read_length_fraction 0.75
-split_libraries_fastq:sequence_max_n 0
-split_libraries_fastq:phred_quality_threshold 3
+assign_taxonomy:reference_seqs_fp $PWD/Database/gg/97_otus.fasta
+assign_taxonomy:id_to_taxonomy_fp $PWD/Database/gg/97_otu_taxonomy.txt 
